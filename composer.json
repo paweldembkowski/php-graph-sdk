@@ -31,5 +31,10 @@
     },
     "replace": {
         "facebook/graph-sdk": ">=5.7.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "5.x-dev"
+        }
     }
 }
